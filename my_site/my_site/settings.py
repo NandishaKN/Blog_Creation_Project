@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'my_site',
 ]
-# -We ned to include our spp nme in installed apps list
+# -We ned to include our app name in installed apps list
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
